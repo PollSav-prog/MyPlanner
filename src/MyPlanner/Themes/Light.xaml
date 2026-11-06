@@ -1,0 +1,16 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="AppBg" Color="#F3F4F8" />
+    <SolidColorBrush x:Key="CardBg" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="CardHoverBg" Color="#E8EEFB" />
+    <SolidColorBrush x:Key="FgPrimary" Color="#1F2430" />
+    <SolidColorBrush x:Key="FgSecondary" Color="#6B7280" />
+    <SolidColorBrush x:Key="Line" Color="#DADDE5" />
+    <SolidColorBrush x:Key="AccentBrush" Color="#E5484D" />
+    <SolidColorBrush x:Key="PrimaryBrush" Color="#3B6FE0" />
+    <SolidColorBrush x:Key="PrimaryFg" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="SelectedRowBg" Color="#E6EDFC" />
+    <SolidColorBrush x:Key="PrioLow" Color="#43A047" />
+    <SolidColorBrush x:Key="PrioNormal" Color="#3B6FE0" />
+    <SolidColorBrush x:Key="PrioHigh" Color="#E5484D" />
+</ResourceDictionary>
